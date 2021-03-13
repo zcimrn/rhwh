@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    font-family: "consolas", "monospace";
+    font-size: 30px;
+}
+
+b {
+    font-family: "consolas", "monospace";
+    font-size: 30px;
+}
+
+.red {
+    font-family: "consolas", "monospace";
+    font-size: 30px;
+    color: red;    
+}
+
+.yellow {
+    font-family: "consolas", "monospace";
+    font-size: 30px;
+    color: yellow;    
+}
+
+.blue {
+    font-family: "consolas", "monospace";
+    font-size: 30px;
+    color: blue;    
+}
+
+.white {
+    font-family: "consolas", "monospace";
+    font-size: 30px;
+    color: white;    
+}
+
+.green {
+    font-family: "consolas", "monospace";
+    font-size: 30px;
+    color: green;    
+}
